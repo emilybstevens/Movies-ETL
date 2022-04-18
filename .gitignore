@@ -1,3 +1,9 @@
+#files
+Resources/movies_metadata.csv
+Resources/ratings.csv
+Resources/wikipedia-movies.json
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,5 +134,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#files
-Resources/
